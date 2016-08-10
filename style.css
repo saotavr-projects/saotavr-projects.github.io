@@ -71,7 +71,7 @@ div.panorama-section {
 div.panorama-container {
 	width: 100%;
 	position: relative;
-	height: 150px;
+	height: 180px;
 	transition: all 1s ease;
 	border-bottom: 3px solid #FFF;
 }
