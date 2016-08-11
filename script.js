@@ -17,7 +17,7 @@ app.controller("MainCtrl", function($scope) {
 	};
 
 	var minimizePanorama = function(currentOrder) {
-		var order = ["first", "second", "third"];
+		var order = ["first", "second"];
 		for (var i = 0; i < order.length; i++) {
 			if (order[i] === currentOrder) {
 				continue;
